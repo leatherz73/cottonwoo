@@ -5,9 +5,7 @@ import { HomeComponent } from './home/home.component';
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
-  imports: [
-    HomeComponent,
-  ],
+  template:''
 })
 export class AppComponent {
   title = 'cottonwoo';
